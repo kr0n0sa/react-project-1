@@ -15,6 +15,7 @@ body {
 
 header {
   text-align: center;
+  align-items: center;
 }
 
 header > h1 {
@@ -27,6 +28,7 @@ header > p {
   font-size: 0.75rem;
   max-width: 350px;
   color: #8e8e8e;
+  margin: auto auto 0 auto;
 }
 
 .Won {
