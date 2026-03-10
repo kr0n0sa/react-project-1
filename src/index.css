@@ -30,7 +30,7 @@ header > p {
   font-size: 0.75rem;
   max-width: 350px;
   color: #8e8e8e;
-  margin: auto auto 0 auto;
+  margin: 15px auto 0 auto;
 }
 
 .Won {
@@ -60,7 +60,7 @@ header > p {
   justify-content: center;
   gap: 8px;
   max-width: 500px;
-  margin: 0 auto;
+  margin: 15px auto 0 auto;
 }
 
 .keyboardKey {
@@ -79,6 +79,7 @@ header > p {
   align-items: center;
   gap: 8px;
   width: 100%;
+  margin-bottom: 15px;
 }
 
 .wordContainer {
