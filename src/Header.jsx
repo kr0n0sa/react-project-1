@@ -1,10 +1,9 @@
 export default function Header() {
   return (
     <header>
-      <h1>Assembly: Endgame</h1>
+      <h1>Word Guesser</h1>
       <p>
-        guess the word withing 8 attmepts to keep the programming world safe
-        from Assembly!
+        guess the word withing 8 tries and i will consider buying you a shawarma
       </p>
     </header>
   );
