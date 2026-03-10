@@ -1,10 +1,8 @@
-import Header from "./Header";
-import Main from "./Main1";
+import Main from "./Main1.jsx";
 
 export default function App() {
   return (
     <>
-      <Header />
       <Main />
     </>
   );

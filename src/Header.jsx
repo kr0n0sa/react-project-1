@@ -1,9 +1,11 @@
-import trollFace from "../images/troll-face.png";
 export default function Header() {
   return (
-    <header className="header">
-      <img src={trollFace} />
-      <h1> meme generator</h1>
+    <header>
+      <h1>Assembly: Endgame</h1>
+      <p>
+        guess the word withing 8 attmepts to keep the programming world safe
+        from Assembly!
+      </p>
     </header>
   );
 }
